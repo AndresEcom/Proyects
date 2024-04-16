@@ -1,0 +1,4 @@
+1. Crear repo local (directorio/file.py)
+2. Inicializar repo local = git
+3. Crear repositorio online
+4.Sincronizar repositorio github = git remote add origin https://github.com/AndresEcom/Proyects.git
